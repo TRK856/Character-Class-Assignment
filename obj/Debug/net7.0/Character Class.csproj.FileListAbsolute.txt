@@ -1,0 +1,15 @@
+F:\CS30\Character Class\bin\Debug\net7.0\Character Class.exe
+F:\CS30\Character Class\bin\Debug\net7.0\Character Class.deps.json
+F:\CS30\Character Class\bin\Debug\net7.0\Character Class.runtimeconfig.json
+F:\CS30\Character Class\bin\Debug\net7.0\Character Class.dll
+F:\CS30\Character Class\bin\Debug\net7.0\Character Class.pdb
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.csproj.AssemblyReference.cache
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.AssemblyInfoInputs.cache
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.AssemblyInfo.cs
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.csproj.CoreCompileInputs.cache
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.dll
+F:\CS30\Character Class\obj\Debug\net7.0\refint\Character Class.dll
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.pdb
+F:\CS30\Character Class\obj\Debug\net7.0\Character Class.genruntimeconfig.cache
+F:\CS30\Character Class\obj\Debug\net7.0\ref\Character Class.dll
